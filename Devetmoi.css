@@ -1,0 +1,19 @@
+#page {
+    width: 1340px;
+    margin: auto;
+}
+
+.tete_site {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+}
+
+nav p {
+    margin : 0 0px 0 40px;
+
+}
